@@ -1,0 +1,229 @@
+INFO [2017-11-30 20:16:41 0581] [us.codecraft.webmagic.Spider] - Spider www.sdcz.gov.cn started!
+INFO [2017-11-30 20:16:41 0600] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/sdczww.s?method=lanmu&cid=2
+INFO [2017-11-30 20:16:44 0676] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=22122
+INFO [2017-11-30 20:16:44 0676] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21947
+INFO [2017-11-30 20:16:44 0676] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=22057
+INFO [2017-11-30 20:16:44 0678] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=22025
+INFO [2017-11-30 20:16:44 0679] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21891
+INFO [2017-11-30 20:16:45 0959] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21946
+INFO [2017-11-30 20:16:46 0037] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21890
+INFO [2017-11-30 20:16:46 0038] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21786
+INFO [2017-11-30 20:16:46 0089] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21583
+INFO [2017-11-30 20:16:46 0189] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21574
+INFO [2017-11-30 20:16:47 0099] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21531
+INFO [2017-11-30 20:16:47 0187] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21530
+INFO [2017-11-30 20:16:47 0352] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21507
+INFO [2017-11-30 20:16:47 0362] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21506
+INFO [2017-11-30 20:16:47 0366] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21444
+INFO [2017-11-30 20:16:48 0259] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=21443
+INFO [2017-11-30 20:16:48 0324] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/modules/sdczww/upload/File/2017-08/20170825150149.pdf
+INFO [2017-11-30 20:16:48 0510] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=20896
+INFO [2017-11-30 20:16:48 0529] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=20804
+INFO [2017-11-30 20:16:48 0533] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.sdcz.gov.cn/Article/ShowInfo.jsp?aid=20803
+WARN [2017-11-30 20:16:49 0926] [us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+INFO [2017-11-30 20:27:57 0580] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:27:57 0598] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:27:59 0821] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:27:59 0821] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:27:59 0822] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:27:59 0821] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:27:59 0823] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:28:01 0639] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:28:01 0696] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:28:01 0707] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:28:01 0733] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+INFO [2017-11-30 20:28:01 0747] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:28:03 0053] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/11.htm
+INFO [2017-11-30 20:28:03 0129] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/12.htm
+INFO [2017-11-30 20:28:03 0166] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/13.htm
+INFO [2017-11-30 20:28:03 0263] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/14.htm
+INFO [2017-11-30 20:30:13 0205] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:30:13 0218] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:30:15 0583] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:30:15 0584] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:30:15 0583] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:30:15 0583] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:30:15 0583] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:30:17 0546] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:30:17 0618] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:30:17 0669] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:30:17 0687] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+INFO [2017-11-30 20:30:17 0718] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:30:19 0293] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/11.htm
+INFO [2017-11-30 20:30:19 0439] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/12.htm
+INFO [2017-11-30 20:30:19 0718] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/13.htm
+INFO [2017-11-30 20:30:19 0720] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/14.htm
+INFO [2017-11-30 20:30:20 0213] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/15.htm
+INFO [2017-11-30 20:30:21 0203] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/38.htm
+INFO [2017-11-30 20:30:21 0410] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/30.htm
+INFO [2017-11-30 20:30:22 0985] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/31.htm
+INFO [2017-11-30 20:30:22 0986] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/32.htm
+INFO [2017-11-30 20:30:22 0988] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/33.htm
+INFO [2017-11-30 20:30:24 0170] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/34.htm
+INFO [2017-11-30 20:30:24 0222] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/35.htm
+INFO [2017-11-30 20:30:25 0088] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/36.htm
+INFO [2017-11-30 20:30:25 0244] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/37.htm
+INFO [2017-11-30 20:30:25 0278] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/16.htm
+INFO [2017-11-30 20:30:26 0304] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/17.htm
+INFO [2017-11-30 20:30:26 0321] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/18.htm
+INFO [2017-11-30 20:30:27 0212] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/19.htm
+INFO [2017-11-30 20:30:27 0215] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/20.htm
+INFO [2017-11-30 20:30:27 0218] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/29.htm
+INFO [2017-11-30 20:30:28 0203] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/26.htm
+INFO [2017-11-30 20:30:28 0208] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/27.htm
+INFO [2017-11-30 20:30:29 0189] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/28.htm
+INFO [2017-11-30 20:30:29 0190] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/21.htm
+INFO [2017-11-30 20:30:29 0280] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/22.htm
+INFO [2017-11-30 20:30:30 0114] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/23.htm
+INFO [2017-11-30 20:30:30 0121] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/24.htm
+INFO [2017-11-30 20:30:31 0084] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/25.htm
+INFO [2017-11-30 20:32:57 0765] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:32:57 0769] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:32:59 0618] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:32:59 0619] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:32:59 0618] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:32:59 0618] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:32:59 0619] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:33:01 0471] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:33:03 0105] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:33:04 0225] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:33:04 0577] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+WARN [2017-11-30 20:33:04 0674] [us.codecraft.webmagic.downloader.HttpClientDownloader] - download page http://www.tiekuangshi.com/news/kuaibao/5.htm error
+org.apache.http.conn.ConnectTimeoutException: Connect to www.tiekuangshi.com:80 [www.tiekuangshi.com/182.254.215.203] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:102)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:321)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 16 more
+INFO [2017-11-30 20:33:05 0711] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:33:06 0014] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/11.htm
+INFO [2017-11-30 20:33:06 0382] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/12.htm
+INFO [2017-11-30 20:33:06 0475] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/13.htm
+INFO [2017-11-30 20:33:07 0607] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/14.htm
+INFO [2017-11-30 20:33:07 0832] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/15.htm
+INFO [2017-11-30 20:33:08 0222] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/38.htm
+INFO [2017-11-30 20:33:08 0504] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/30.htm
+INFO [2017-11-30 20:33:08 0530] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/31.htm
+INFO [2017-11-30 20:33:09 0351] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/32.htm
+INFO [2017-11-30 20:33:09 0602] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/33.htm
+INFO [2017-11-30 20:33:10 0075] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/34.htm
+INFO [2017-11-30 20:33:10 0086] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/35.htm
+INFO [2017-11-30 20:33:10 0622] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/36.htm
+INFO [2017-11-30 20:33:11 0189] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/37.htm
+INFO [2017-11-30 20:33:11 0634] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/16.htm
+INFO [2017-11-30 20:33:11 0917] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/17.htm
+INFO [2017-11-30 20:33:12 0275] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/18.htm
+INFO [2017-11-30 20:33:12 0780] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/19.htm
+INFO [2017-11-30 20:33:12 0843] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/20.htm
+INFO [2017-11-30 20:33:13 0101] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/29.htm
+INFO [2017-11-30 20:33:13 0774] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/26.htm
+INFO [2017-11-30 20:38:44 0649] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:38:44 0653] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:38:46 0475] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:38:46 0475] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:38:46 0475] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:38:46 0475] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:38:46 0478] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:38:48 0354] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:38:48 0365] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:38:48 0374] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:38:48 0389] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+INFO [2017-11-30 20:38:48 0391] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:38:50 0201] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63356.htm
+INFO [2017-11-30 20:38:50 0241] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63347.htm
+INFO [2017-11-30 20:38:50 0366] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63339.htm
+INFO [2017-11-30 20:38:50 0370] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63331.htm
+INFO [2017-11-30 20:38:50 0845] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63329.htm
+INFO [2017-11-30 20:38:51 0464] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63309.htm
+INFO [2017-11-30 20:38:51 0811] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63306.htm
+INFO [2017-11-30 20:38:51 0929] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63305.htm
+INFO [2017-11-30 20:38:51 0957] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63300.htm
+INFO [2017-11-30 20:38:52 0075] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63285.htm
+INFO [2017-11-30 20:38:52 0973] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63279.htm
+INFO [2017-11-30 20:38:53 0075] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63274.htm
+INFO [2017-11-30 20:38:53 0195] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63256.htm
+INFO [2017-11-30 20:38:53 0199] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63252.htm
+INFO [2017-11-30 20:38:53 0306] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63241.htm
+INFO [2017-11-30 20:38:54 0213] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63238.htm
+INFO [2017-11-30 20:38:54 0347] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63230.htm
+INFO [2017-11-30 20:38:54 0800] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63216.htm
+INFO [2017-11-30 20:38:54 0802] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63206.htm
+INFO [2017-11-30 20:38:54 0909] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63194.htm
+INFO [2017-11-30 20:38:55 0857] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63185.htm
+INFO [2017-11-30 20:38:55 0956] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63165.htm
+INFO [2017-11-30 20:38:56 0085] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63158.htm
+INFO [2017-11-30 20:38:56 0100] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63153.htm
+INFO [2017-11-30 20:38:56 0179] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63148.htm
+INFO [2017-11-30 20:46:55 0808] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:46:55 0813] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:46:58 0028] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:46:58 0028] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:46:58 0028] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:46:58 0029] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:46:58 0029] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:46:59 0850] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:46:59 0939] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:46:59 0972] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:46:59 0974] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+INFO [2017-11-30 20:47:00 0014] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:47:01 0592] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63356.htm
+INFO [2017-11-30 20:47:01 0823] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63347.htm
+INFO [2017-11-30 20:47:01 0951] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63339.htm
+INFO [2017-11-30 20:47:01 0983] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63331.htm
+INFO [2017-11-30 20:47:02 0433] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63329.htm
+INFO [2017-11-30 20:47:02 0886] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63309.htm
+INFO [2017-11-30 20:47:03 0418] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63306.htm
+INFO [2017-11-30 20:47:03 0620] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63305.htm
+INFO [2017-11-30 20:47:03 0646] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63300.htm
+INFO [2017-11-30 20:47:03 0748] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63285.htm
+INFO [2017-11-30 20:47:04 0673] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63279.htm
+INFO [2017-11-30 20:49:11 0933] [us.codecraft.webmagic.Spider] - Spider www.tiekuangshi.com started!
+INFO [2017-11-30 20:49:11 0937] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/1.htm
+INFO [2017-11-30 20:49:14 0110] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/3.htm
+INFO [2017-11-30 20:49:14 0110] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/6.htm
+INFO [2017-11-30 20:49:14 0111] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/4.htm
+INFO [2017-11-30 20:49:14 0111] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/5.htm
+INFO [2017-11-30 20:49:14 0110] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/2.htm
+INFO [2017-11-30 20:49:15 0872] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/7.htm
+INFO [2017-11-30 20:49:16 0000] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/8.htm
+INFO [2017-11-30 20:49:16 0133] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/9.htm
+INFO [2017-11-30 20:49:16 0150] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/10.htm
+INFO [2017-11-30 20:49:16 0154] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/kuaibao/39.htm
+INFO [2017-11-30 20:49:17 0254] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63356.htm
+INFO [2017-11-30 20:49:17 0379] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63347.htm
+INFO [2017-11-30 20:49:17 0828] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63339.htm
+INFO [2017-11-30 20:49:17 0895] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63331.htm
+INFO [2017-11-30 20:49:18 0062] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63329.htm
+INFO [2017-11-30 20:49:18 0873] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63309.htm
+INFO [2017-11-30 20:49:18 0948] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63306.htm
+INFO [2017-11-30 20:49:19 0084] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63305.htm
+INFO [2017-11-30 20:49:19 0152] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63300.htm
+INFO [2017-11-30 20:49:19 0294] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63285.htm
+INFO [2017-11-30 20:49:20 0120] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63279.htm
+INFO [2017-11-30 20:49:20 0196] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63274.htm
+INFO [2017-11-30 20:49:20 0349] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63256.htm
+INFO [2017-11-30 20:49:20 0392] [us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page http://www.tiekuangshi.com/news/63252.htm
